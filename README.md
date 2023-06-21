@@ -1,5 +1,5 @@
 
-# Tempo Next Templates
+# React Templates
 
 ## Setting
 
